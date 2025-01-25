@@ -147,3 +147,4 @@ Conclusion::
 Diet optimization using linear programming is a powerful approach to creating cost-efficient meal plans while ensuring nutritional balance. By leveraging tools like PuLP, we can model and solve such real-world optimization problems efficiently. This project provides a practical application of data science and optimization techniques in health and nutrition.
 
 *OUTPUT* :
+![Image](https://github.com/user-attachments/assets/9e612889-714f-4e01-9be6-1bcac28bbd3d)
