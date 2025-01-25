@@ -16,7 +16,7 @@ optimization project using Linear Programming (LP) and the PuLP library in Pytho
 Problem Statement:
 A person needs to meet their daily nutritional requirements (calories, protein, fat, and carbohydrates) by choosing from a set of foods with different nutrient compositions and costs. The goal is to minimize the total cost while satisfying the nutritional constraints.
 
-Introduction
+Introduction:
 Diet optimization is a classic problem in operations research that aims to find the most cost-effective way to meet an individual's nutritional needs by selecting from a variety of available food items. The goal is to minimize the total cost while ensuring that the daily intake of essential nutrients such as calories, protein, fat, and carbohydrates meets the required levels. This problem can be effectively solved using Linear Programming (LP), a mathematical approach for optimizing a linear objective function subject to linear constraints. In this project, we will use the PuLP library in Python to model and solve the problem.
 
 Mathematical Formulation
